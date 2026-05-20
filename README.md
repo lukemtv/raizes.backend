@@ -25,6 +25,7 @@ API REST completa para gerenciamento de usuários, produtos, pedidos e pagamento
 - Login com JWT
 - Proteção de rotas
 
+
 ### 👤 Usuários
 - Criar usuário
 - Listar usuários
