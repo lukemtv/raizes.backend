@@ -52,3 +52,11 @@ Usuário → Login → Token JWT
 → Criar Produto
 → Criar Pedido
 → Pagar Pedido
+
+
+## Como executar
+
+### Clonar repositório
+
+```bash
+git clone https://github.com/lukemtv/raizes.backend.git
