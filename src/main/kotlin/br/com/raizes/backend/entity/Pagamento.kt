@@ -8,7 +8,6 @@ import java.time.LocalDateTime
 @Entity
 @Table(name = "pagamentos")
 class Pagamento(
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     val id: Long = 0,
