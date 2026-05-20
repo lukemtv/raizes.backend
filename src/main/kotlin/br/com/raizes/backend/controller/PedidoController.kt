@@ -50,7 +50,6 @@ class PedidoController(
         pedidoSalvo.valorTotal = total
         return pedidoRepository.save(pedidoSalvo)
     }
-
     @GetMapping
     fun listar(): List<Pedido> {
         return pedidoRepository.findAll()
